@@ -1,0 +1,1 @@
+This folder will contain the scripts that generated the 50x50 comparison figures in the future.
